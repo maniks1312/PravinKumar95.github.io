@@ -1,14 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://PravinKumar95.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Cactus theme example</title>
+    <link>https://pravinkumar95.github.io/tags/</link>
+    <description>Recent content in Tags on Cactus theme example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://PravinKumar95.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pravinkumar95.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://pravinkumar95.github.io/tags/algorithms/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming language</title>
+      <link>https://pravinkumar95.github.io/tags/programming-language/</link>
+      <pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racket</title>
+      <link>https://pravinkumar95.github.io/tags/racket/</link>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/racket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SML</title>
+      <link>https://pravinkumar95.github.io/tags/sml/</link>
+      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/sml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>https://pravinkumar95.github.io/tags/rpa/</link>
+      <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://pravinkumar95.github.io/tags/javascript/</link>
+      <pubDate>Sun, 10 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js</title>
+      <link>https://pravinkumar95.github.io/tags/vue.js/</link>
+      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://pravinkumar95.github.io/tags/php/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://pravinkumar95.github.io/tags/ruby/</link>
+      <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://pravinkumar95.github.io/tags/linux/</link>
+      <pubDate>Tue, 29 Nov 2016 21:08:52 +0000</pubDate>
+      
+      <guid>https://pravinkumar95.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
